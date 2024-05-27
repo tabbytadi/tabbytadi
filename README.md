@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tabbytadi
 - 👀 I’m interested in Web Designing 
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on any project!
+- 💞️ I’m looking to starting an IT internship!
 - 📫 How to reach me: adelina.st.live@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm an artist who found a passion in drawing through code!

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tabbytadi
+- 👋 Hi, I’m Adelina
 - 👀 I’m interested in Web Designing 
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to starting an IT internship or full-time position!

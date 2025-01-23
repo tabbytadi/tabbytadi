@@ -1,5 +1,10 @@
 # 💫 About Me:
-- 👋 Hi, I’m @Adelina<br>- 👀 I am interested in programming, Web Design and personal development.<br>- 🌱 I am currently studying **Computer Science** and taking online courses in Web Development to improve my professional and technical skills.<br>- 💞️ Looking to collaborate on innovative technology ideas and business projects.<br>- 📫 How to contact me: adelina.st.live@gmail.com<br>- 😄 Pronouns: **She/Her**<br>- ⚡ Fun fact: **I'm a tech entusiast and an artist who found a passion in drawing through code.**
+- 👋 Hi, I’m @Adelina
+- 👀 I am interested in programming, Web Design and personal development.
+- 🌱 I am currently studying **Computer Science** and taking online courses in Web Development to improve my professional and technical skills.
+- 💞️ Looking to collaborate on innovative technology ideas and business projects.
+- 📫 How to contact me: adelina.st.live@gmail.com
+- ⚡ Fun fact: **I'm a tech entusiast and an artist who found a passion in drawing through code.**
 
 
 ## 🌐 Socials:

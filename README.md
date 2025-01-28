@@ -8,9 +8,13 @@
 
 
 ## 🌐 Socials:
+<!--
 <a href="https://www.linkedin.com/in/adelinast/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Adelina Stankova | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/tabbytadi"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Adelina Stankova | Instagram" width="21px"/></a>
-<a href="[https://instagram.com/yushi.95](https://facebook.com/adelina.stankova.5/)"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/facebook.svg" alt="Adelina Stankova | Facebook" width="21px"/></a>
+<a href="[https://instagram.com/yushi.95](https://facebook.com/adelina.stankova.5/)"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/facebook.svg" alt="Adelina Stankova | Facebook" width="21px"/></a> 
+Nqma facebook snimka 
+-->
+
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/adelina.stankova.5/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tabbytadi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adelinast/) 
 
